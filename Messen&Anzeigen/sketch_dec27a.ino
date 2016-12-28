@@ -32,7 +32,7 @@ void setup()
   lcd.setCursor(0,1);
   lcd.print("Display: 16x2 LCD RGB");
   
-  delay(1500);
+  delay(1000);
   lcd.clear();
     
 }
@@ -45,10 +45,10 @@ void loop()
   
   temperature0 = sensor.temperature;
   humidity0 = sensor.humidity;
-  delay(500);
+  delay(1000);
   temperature1 = sensor.temperature; 
   humidity1 = sensor.humidity;
-  delay(500);
+  delay(1000);
   temperature2 = sensor.temperature; 
   humidity2 = sensor.humidity;
   
@@ -60,9 +60,6 @@ void loop()
   finalhumidity = finalhumidity / 3;
 
   lcd.clear();
-  
-  
-  
   
   lcd.print("Humidity: ");
   lcd.print(finalhumidity);
