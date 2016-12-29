@@ -21,10 +21,7 @@ int finalhumidity = 0;
 dht sensor;
 
 void setup()
-{
-  
-  
-  
+{  
   lcd.begin(16,2); //16 by 2 character display
   
   lcd.setCursor(0,0);
