@@ -19,3 +19,8 @@ LCD 15 to 220 ohm resistor and then the same 220 ohm resistor to breadboard posi
 LCD 16 to breadboard negative power rail
 Potentiometer positive pin to breadboard positive power rail
 Potentiometer negative pin to breadboard negative power rail
+
+Photo of final build:
+
+https://photos.google.com/share/AF1QipPZ9i_-Lrw83gD5gphb_UYAxA-Rz-V_0hpgyrLBXjc9UbcX_bOk5f3eHoTrxgAicg?key=S1RlSkNSWGxWOGh0WDVSa2VwY0lQaGcyaEN6VWVn
+
